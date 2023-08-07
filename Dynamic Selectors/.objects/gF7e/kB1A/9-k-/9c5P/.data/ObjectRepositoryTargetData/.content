@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2ZwwaguOskunBHnzDsNcwA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="17, 759, 448, 38" CvTextArea="153, 769, 142, 14" CvTextArgument="DOWNLOAD EXCEL" CvType="Button" DesignTimeRectangle="17, 759, 448, 38" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'DOWNLOAD EXCEL'" Guid="b6331675-7648-472e-a215-c1f2f5b9b8b5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d3fa9e0dedd32bebe3e65efa3965c002.png" xmlns="">0U1nyQBp1H0uQH9MIPk1BoQ</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

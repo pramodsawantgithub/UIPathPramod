@@ -1,0 +1,13 @@
+﻿{
+  "Id": "1Y4rmCr-I0mivT611nkF5Q",
+  "Reference": "img4KPHMEEmgKg3j3W5_zg/1Y4rmCr-I0mivT611nkF5Q",
+  "ParentRef": "img4KPHMEEmgKg3j3W5_zg/9-k-hd0mF0iS8v3hZw7Ztw",
+  "Name": "cloud_download",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Created": "2023-08-07T09:20:01.6208229Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-08-07T09:20:01.6208229Z"
+}
